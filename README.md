@@ -4,12 +4,15 @@ To write a program for mean, variance and cross correlation in SCILAB and verify
 
 EQUIPMENTS NEEDED:
 Computer with i3 Processor · SCI LAB
+
 Algorithm:
+
 1.Define the Function: Specify the function you want to simulate. For example, f(x)=sin⁡(x)f(x) = \sin(x)f(x)=sin(x) or any other function.
 2.Generate Sample Points: Decide on the range and the number of sample points. Generate these sample points within the desired range.
 3.Evaluate the Function: Compute the function values at each of these sample points.
 4.Compute Mean, Variance and Cross Correlation: Use Scilab's functions to calculate the mean and variance of the computed function values.
 5.Display Results: Output the computed mean variance and Cross Correlation
+
 PROCEDURE:
 
 Refer Algorithms and write code for the experiment.
@@ -26,6 +29,7 @@ Refer Algorithms and write code for the experiment.
 
 · Verify the generated results
 PROGRAM:
+```
 clear; clc; clear;
 
 //Mean Value function X=f(x),
@@ -72,6 +76,7 @@ n2=max(size(x))-1;
 r=corr(x,y,n1);
 
 plot2d3('gnn',r);
+`` `
 OUTPUT:
 i) Mean of X = 1.0833333 Mean of Y = 1.0833333
 
