@@ -87,14 +87,17 @@ Cross Correlation
 Type in the reference sequence = [1 2 3 4 5 6 7 8]
 
 Type in the second sequence = [2 1 3 5 6 3 5 9]
+```
 
-![WhatsApp Image 2025-10-22 at 18 19 57_4e254f6b](https://github.com/user-attachments/assets/dc791def-ea3e-4061-9032-3da60a6f713f)
+![WhatsApp Image 2025-10-22 at 18 19 56_bc0bf054](https://github.com/user-attachments/assets/bb252c65-80a3-4996-9409-6ba39e4aca6b)
+
+
 CALCULATION:
 
-![MEAN AND 1](https://github.com/user-attachments/assets/93c3b16d-e87b-4e5f-a62b-88b14e851842)
+![WhatsApp Image 2025-10-22 at 15 49 51_77232484](https://github.com/user-attachments/assets/2666f675-6b61-41b6-b1c7-105657cc91d5)
 
+![WhatsApp Image 2025-10-22 at 15 51 02_8c3c439f](https://github.com/user-attachments/assets/5d7d677c-7bc9-4076-a025-087b6d661707)
 
-![WhatsApp Image 2025-10-22 at 15 51 02_89efa56e](https://github.com/user-attachments/assets/7bc70125-acaf-453e-810a-487d74f67062)
 
 RESULT:
 Thus the mean , variance and cross correlation are executed in Scilab and output is verified.
